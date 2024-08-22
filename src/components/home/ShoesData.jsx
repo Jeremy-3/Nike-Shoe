@@ -4,7 +4,7 @@ function ShoesData({ handleAddToCart }) {
   const [shoes, setShoes] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:3000/shoes")
+    fetch("https://n-ike-backend.vercel.app/shoes")
       .then((res) => res.json())
       .then((data) => setShoes(data));
   }, []);
