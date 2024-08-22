@@ -1,0 +1,116 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Nike Air Max 270",
+      "price": 150.0,
+      "description": "The Nike Air Max 270 features a bold design with a large, visible Air Max unit in the heel for a smooth, cushioned ride. The breathable mesh upper provides comfort and support.",
+      "quantityLeft": 25,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f0e19e40-0390-4b47-ad8f-0167bc81a41a/air-max-270-mens-shoes-KkLcGR.png"
+    },
+    {
+      "id": 2,
+      "name": "Nike Air Force 1",
+      "price": 120.0,
+      "description": "The Nike Air Force 1 is a classic with a timeless silhouette. This shoe features a leather upper and Air-Sole cushioning for comfort and support.",
+      "quantityLeft": 30,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fdeb34c8-a6bf-4530-9145-b6cfea5dd963/air-force-1-07-lv8-1-mens-shoes-x0bMdL.png"
+    },
+    {
+      "id": 3,
+      "name": "Nike ZoomX Vaporfly NEXT% 2",
+      "price": 250.0,
+      "description": "The Nike ZoomX Vaporfly NEXT% 2 is built for speed with a lightweight, breathable upper and a full-length carbon fiber plate for a propulsive feel.",
+      "quantityLeft": 15,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b3d478f7-6bb3-479f-aa4b-48661a0a2518/vaporfly-2-womens-road-racing-shoes-Dbqd8h.png"
+    },
+    {
+      "id": 4,
+      "name": "Nike SB Dunk Low",
+      "price": 110.0,
+      "description": "The Nike SB Dunk Low features a durable leather upper with a padded collar for comfort. Its classic design includes perforations for breathability and a rubber outsole for traction.",
+      "quantityLeft": 20,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/56ff13a0-d2e6-49ed-bfd2-43dc2ba0922b/dunk-low-big-kids-shoes-S3lSGW.png"
+    },
+    {
+      "id": 5,
+      "name": "Nike React Infinity Run Flyknit",
+      "price": 160.0,
+      "description": "The Nike React Infinity Run Flyknit offers a soft, cushioned ride with its React foam midsole and a Flyknit upper that adapts to your foot’s movement.",
+      "quantityLeft": 22,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b7aee96c-ab9a-4d3f-af4d-a79a50a06ec5/infinityrn-4-blueprint-mens-road-running-shoes-hlqHFQ.png"
+    },
+    {
+      "id": 6,
+      "name": "Nike Air Max 97",
+      "price": 180.0,
+      "description": "The Nike Air Max 97 features a full-length Max Air unit for cushioned comfort and a sleek, reflective design that stands out.",
+      "quantityLeft": 18,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cf605a20-3b68-44c6-8277-a824f1944b6f/air-max-97-big-kids-shoes-xYb0Y4.png"
+    },
+    {
+      "id": 7,
+      "name": "Nike Air Zoom Pegasus 38",
+      "price": 130.0,
+      "description": "The Nike Air Zoom Pegasus 38 is a reliable running shoe with responsive Zoom Air cushioning and a breathable mesh upper.",
+      "quantityLeft": 27,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3c2781f3-2872-463a-a7f6-af2208729b87/downshifter-13-mens-road-running-shoes-4M0LNf.png"
+    },
+    {
+      "id": 9,
+      "name": "Nike Air Max 2090",
+      "price": 170.0,
+      "description": "The Nike Air Max 2090 combines modern style with the iconic Air Max cushioning for a comfortable, futuristic look.",
+      "quantityLeft": 21,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fa3c0245-618a-4372-af21-1000f6e57386/air-max-90-mens-shoes-Bd2qnn.png"
+    },
+    {
+      "id": 10,
+      "name": "Nike Air Max Pre-Day",
+      "price": 140.0,
+      "description": "The Nike Air Max Pre-Day offers a retro-inspired design with a sleek, layered upper and visible Air cushioning for added comfort.",
+      "quantityLeft": 19,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/58903c0b-0afe-400e-8ac6-9bf3ccf940ba/air-max-pre-day-mens-shoes-JBXGg7.png"
+    },
+    {
+      "id": 11,
+      "name": "Nike Air Max Tailwind IV",
+      "price": 160.0,
+      "description": "The Nike Air Max Tailwind IV features a bold, retro design with large Air Max units and a durable mesh and leather upper.",
+      "quantityLeft": 17,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/81060e5a-3b38-41e6-9b57-65134e0470fa/air-max-tw-mens-shoes-rQl8pF.png"
+    },
+    {
+      "id": 12,
+      "name": "Nike Air Huarache",
+      "price": 130.0,
+      "description": "The Nike Air Huarache provides a snug fit with its neoprene bootie and offers cushioned comfort with its Air-Sole unit.",
+      "quantityLeft": 23,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6c7b04c0-c1a3-44e3-95b9-271627a92e00/air-huarache-mens-shoes-JppwBb.png"
+    },
+    {
+      "id": 13,
+      "name": "Nike SB Dunk High",
+      "price": 130.0,
+      "description": "The Nike SB Dunk High features a high-top design with premium materials and a padded collar for added support and style.",
+      "quantityLeft": 16,
+      "image": "https://static.nike.com/a/images/t_default/c17865d0-ded4-4f22-b34e-1de3752ece46/custom-nike-dunk-high-by-you-shoes.png"
+    },
+    {
+      "id": 14,
+      "name": "Nike Air Max 1",
+      "price": 150.0,
+      "description": "The Nike Air Max 1 is known for its classic design and visible Air cushioning, combining style with all-day comfort.",
+      "quantityLeft": 20,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1b123e2a-89a2-48b1-8595-5cf0ec8eb3dd/air-max-1-essential-mens-shoes-2C5sX2.png"
+    },
+    {
+      "id": 15,
+      "name": "Nike Air Zoom Alphafly NEXT%",
+      "price": 275.0,
+      "description": "The Nike Air Zoom Alphafly NEXT% is engineered for speed with a carbon fiber plate and Zoom Air pods for maximum energy return.",
+      "quantityLeft": 12,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7776f88c-1bf6-49ac-a53b-b532f4c51a87/alphafly-3-mens-road-racing-shoes-5gZBgL.png"
+    }
+  ]
+}
